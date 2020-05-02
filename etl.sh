@@ -1,0 +1,1 @@
+mysql -h localhost -u root classicmodels< 'daily_increase.sql'
